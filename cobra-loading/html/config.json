@@ -1,0 +1,196 @@
+{
+    "selectedColor": "#FF8A4D",
+    "backgroundImage": "https://cdn.discordapp.com/attachments/1466020570234880095/1486305347651244042/autumn-byteplus_b_I_need_a_1080p_backg.jpeg?ex=69c50539&is=69c3b3b9&hm=bc2e484735e5a032ae7c10b50529becbb4a4f8a4e09719c847906eead0407140&",
+    "backgroundVideo": "",
+    "watermark": {
+        "label": {
+            "text": "Blue Haven RP",
+            "colorWordCount": 2
+        },
+        "subHeading": "Roleplay Server",
+        "logo": "./Logo.png"
+    },
+    "socialHeaders": [
+        {
+            "type": "discord",
+            "cardLabel": "Discord",
+            "cardInfo": "Join the community and keep up with the latest updates!",
+            "link": "https://discord.gg/7Vfs5h5GKu",
+            "enabled": true
+        }
+    ],
+    "customPanels": [
+        {
+            "panelPosition": 3,
+            "uniqueId": "updates",
+            "buttonLabel": "Updates",
+            "icon": "gavel",
+            "cardHeaderLabel": "Latest City Updates",
+            "singularLabel": "Update",
+            "entries": [
+                "Tons of civilian jobs",
+                "Unique supply chain system for owned shops",
+                "New 1000+ lore friendly vehicles added with more on the way",
+                "PD and NHS like you've never seen them before"
+            ]
+        }
+    ],
+    "rules": [
+        "No griefing or trolling other players.",
+        "Respect all admins and staff decisions.",
+        "No hacking, exploiting, or modding in unfair ways.",
+        "Keep your behaviour mature and respectful at all times.",
+        "Do not spam the chat or use slurs or hate speech."
+    ],
+    "teamMembers": [
+        {
+            "name": "Charlie Smith",
+            "role": "Owner",
+            "discord": "",
+            "image": "https://dl-thevibe.mooo.com/images/png/fakalheadshot.png"
+        },
+        {
+            "name": "Bethany Smith",
+            "role": "Owner",
+            "discord": "",
+            "image": "https://dl-thevibe.mooo.com/images/png/gatorheadshot.png"
+        },
+        {
+            "name": "Jakes",
+            "role": "Owner",
+            "discord": "",
+            "image": "https://dl-thevibe.mooo.com/images/png/mitchheadshot.png"
+        }
+    ],
+    "gallery": [
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/fivemsupranrcisist.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/sunsetsupraitsugsik.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/midiguess.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/hellcatdurangoitsugsik.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/IMG_2135.jpeg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/oldies2.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/oldies1.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/supra6.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/supra5.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/mitch-donk1.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/mitch-donk2.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/mitch-donk3.jpg"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/supra3.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/supra4.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/bluebmw.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/headshot.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/png/supra2.png"
+        },
+        {
+            "path": "https://dl-thevibe.mooo.com/images/jpg/rarri_lol.jpg"
+        }
+    ],
+    "keyboardShortcuts": {
+        "layout": "ansi",
+        "locale": "en-US",
+        "keys": [
+            {
+                "key": "`",
+                "onFoot": "Point",
+                "inCar": "Put on seatbelt"
+            },
+            {
+                "key": "Left Arrow",
+                "onFoot": null,
+                "inCar": "Left Indicator"
+            },
+            {
+                "key": "Right Arrow",
+                "onFoot": null,
+                "inCar": "Right Indicator"
+            },
+            {
+                "key": "Up Arrow",
+                "onFoot": null,
+                "inCar": "Hazard Lights"
+            },
+            {
+                "key": "M",
+                "onFoot": "Pull out phone",
+                "inCar": null
+            },
+            {
+                "key": "L",
+                "onFoot": "Lock vehicle",
+                "inCar": null
+            },
+            {
+                "key": "G",
+                "onFoot": null,
+                "inCar": "Toggle engine on/off"
+            },
+            {
+                "key": "J",
+                "onFoot": "Park vehicle",
+                "inCar": null
+            },
+            {
+                "key": "Z",
+                "onFoot": "Open radial menu",
+                "inCar": null
+            },
+            {
+                "key": "X",
+                "onFoot": "Hands up",
+                "inCar": null
+            },
+            {
+                "key": "0",
+                "onFoot": null,
+                "inCar": "Vehicle controller"
+            },
+            {
+                "key": "LALT",
+                "onFoot": "Third eye view",
+                "inCar": null
+            }
+        ]
+    },
+    "music": [
+        {
+            "path": "https://res.cloudinary.com/dcn8su6mn/video/upload/v1775692373/Blue_Haven_Nights_lxrnew.mp3",
+            "title": "Blue Haven Nights",
+            "artist": "Blue Haven RP",
+            "image": null
+        }
+    ],
+    "defaultVolume": 1
+}
